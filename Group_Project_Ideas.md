@@ -1,0 +1,6 @@
+- [] build book club rules
+- [] build Radio Aficionados network
+- [] build website
+- [] automate discord bots with automate.io
+- [] build github repo  
+- [] build electron bookclub app
